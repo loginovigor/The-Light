@@ -1,6 +1,7 @@
 # The-Light
 
-The light project from App Development with Swift curriculum 2020
+The light project from App Development with Swift 
+
 
 ![Снимок экрана 2020-12-07 в 21 42 55](https://user-images.githubusercontent.com/74254939/101392978-74955580-38d7-11eb-8f98-e0e88e24103c.png)
 
